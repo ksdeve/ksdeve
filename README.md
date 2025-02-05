@@ -1,18 +1,16 @@
  # 👨‍💻 Kévin SALMON  
 
-![GitHub followers](https://img.shields.io/github/followers/KevinSalmon?style=social) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)  
+![GitHub followers](https://img.shields.io/github/followers/ksdeve?style=social) ![LinkedIn](https://img.shields.io/badge/1007%20Followers-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)
+
+
 
 ### 💡 Master en Développement 
 
-Bienvenue sur mon profil GitHub ! Passionné par le développement logiciel et les technologies web, je suis actuellement en formation pour valider mon Master en Développement Web 🌐.
+Bienvenue sur mon profil GitHub ! Passionné par le développement logiciel et les technologies web, je suis actuellement en formation pour valider mon Master en Développement Web 🌐. 
 
----
+<img src="images/avatar.svg" alt="Description de l'image" style="float: right; margin-left: 15px;"/>
 
-## ✨ Profil Professionnel
 
-Développeur junior motivé et sérieux, je combine des compétences techniques en programmation backend et frontend avec une expérience sur Salesforce et des solutions CRM. Toujours prêt à apprendre et à innover, je m'efforce de concevoir des solutions optimales et adaptées aux besoins des entreprises.
-
----
 
 ## 🔧 Compétences Clés
 
@@ -20,6 +18,7 @@ Développeur junior motivé et sérieux, je combine des compétences techniques 
  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Command Prompt](https://img.shields.io/badge/Command_Prompt-0078D6?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
 
 
 ### 🛠️ **Développement Web**  
