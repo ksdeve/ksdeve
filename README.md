@@ -8,7 +8,10 @@
 
 Bienvenue sur mon profil GitHub ! Passionné par le développement logiciel et les technologies web, je suis actuellement en formation pour valider mon Master en Développement Web 🌐. 
 
-<img src="images/avatar.svg" alt="Description de l'image" style="float: right; margin-left: 15px;"/>
+<div style="text-align: right; width: 100%;">
+    <img src="images/avatar.svg" alt="Description de l'image" style="max-width: 150px;"/>
+</div>
+
 
 
 
