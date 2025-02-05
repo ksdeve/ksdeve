@@ -6,10 +6,10 @@
 
 ### 💡 Master en Développement 
 
-<h2 style="display: flex; justify-content: space-between; align-items: center;">
-  Bienvenue sur mon profil GitHub ! Passionné par le développement logiciel et les technologies web, je suis actuellement en formation pour valider mon Master en Développement Web 🌐.
-  <img src="images/avatar.svg" alt="Description de l'image" style="max-width: 100px;" />
-</h2>
+Bienvenue sur mon profil GitHub ! Passionné par le développement logiciel et les technologies web, je suis actuellement en formation pour valider mon Master en Développement Web 🌐. 
+
+<img src="images/avatar.svg" alt="Description de l'image" align="right" width="150"/>
+
 
 
 
