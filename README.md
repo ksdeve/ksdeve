@@ -2,11 +2,12 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/ksdeve?style=social) ![LinkedIn](https://img.shields.io/badge/1007%20Followers-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)
 
+<img src="images/avatar.svg" alt="Description de l'image" align="right" width="150"/>
+
 
 
 ### 💡 Master en Développement 
 
-<img src="images/avatar.svg" alt="Description de l'image" align="right" width="150"/>
 
 Bienvenue sur mon profil GitHub ! Passionné par le développement logiciel et les technologies web, je suis actuellement en formation pour valider mon Master en Développement Web 🌐. 
 
